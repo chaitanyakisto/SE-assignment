@@ -1,0 +1,4 @@
+id,make,model,year,rental_rate,is_available
+1,Mitsubishi,ASX,2018,25.000000,0
+2,Toyota,Corolla,2006,17.000000,0
+3,Mazda,BT50,2024,35.000000,0
